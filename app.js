@@ -1,5 +1,5 @@
 //var target_date = new Date().getTime() + (1000*3600*48); // set the countdown date
-var target_date = new Date("2019/02/21 10:00:00");
+var target_date = new Date("2020/02/12 10:00:00");
 var days, hours, minutes, seconds; // variables for time units
 
 var countdown = document.getElementById("tiles"); // get tag element
